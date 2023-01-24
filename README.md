@@ -6,7 +6,7 @@
 ### <div align="center">Oi, meu nome é Silas, estudante e entusiasta de tecnologias em geral!</div>  
   
 
-- 🌱 Atualmente estou cursando análise e desenvolvimento de sistemas e estudando c# .net core  
+- 🌱 Atualmente estou cursando Engenharia de Software e estudando C# .NET Core  
   
 
 <br/>  
