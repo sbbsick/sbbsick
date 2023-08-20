@@ -40,6 +40,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sbbsick/sbbsick/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sbbsick&"  />
+</div>
 
 ###
