@@ -1,4 +1,4 @@
-<h3 align="center">Oi 👋! Meu nome é Silas, programador Fullstack Jr.<br>Graduando em Análise e desenvolvimento de sistemas.<br>Atualmente estudando Java, C# e Angular.</h3>
+<h3 align="center">Oi 👋! Meu nome é Silas, programador Backend Jr.<br>Graduando em Análise e desenvolvimento de sistemas.<br>Atualmente estudando Java.</h3>
 
 ###
 
